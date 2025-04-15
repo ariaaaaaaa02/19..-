@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>My First Website</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+  <header>
+    <h1>Hiiiii, my pretty boy!</h1>
+    <p>To nineteen beautiful months of us. Happy monthsary, my love!</p>
+  </header>
+
+  <main>
+    <h2>My love,</h2>
+
+    <button onclick="sayHello()">Click Me</button>
+  </main>
+  <p>nineteen months have already passed, we've been through a lot already, and I wanna say that my heart is still full of u. I am always grateful for having someone like you. You've been there for me not just on good days, but also on my bad days. Your smile, voice, and your presence is my constant comfort. know this my love, it's u, the first and last thing my mind could think of and that shows how much i adore u.
+There are more months waiting for us and i can wait to spend it with u and only u. We're growing, and through twists and turns, my love for you also grows.
+<br>
+i love youuuuuuuu, my cedie, infinitely and eternally</p>
+
+  <footer>
+    <p>© 19th</p>
+  </footer>
+
+  <script src="script.js"></script>
+</body>
+</html>
